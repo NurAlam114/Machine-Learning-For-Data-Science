@@ -1,0 +1,6 @@
+Name,Age,Salary,JoinDate,Department
+Alice,25,50000,1/15/2020,HR
+Bob,,60000,7/23/2019,Finance
+Charlie,30,,,IT
+David,22,45000,3/1/2021,
+maxwell,28,52000,11/11/2018,Marketing
